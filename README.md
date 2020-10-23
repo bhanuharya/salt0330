@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=flat-square&logo=reactnative&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/react%20-%23FF2D20.svg?&style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/reactnative%20-%23FF2D20.svg?&style=flat-square&logo=reactnative&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat-square&logo=TensorFlow&logoColor=white" />
