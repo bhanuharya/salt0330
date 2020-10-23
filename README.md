@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-### My Skills
+My name is Ramadhana Bhanuharya Wishnumurti and you can call Wishnu, right now I'm studying CS/Informatics at Institut Teknologi Bandung. I have a deep interest in frontend & Web development, thus I am learning and working to create awesome projects that you can see in my repo!
+### My Skills 🔭
 
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 ---
 
-Reach me at: https://www.linkedin.com/in/wishnumurti/
+### 📫 Reach me at my LinkedIn: https://www.linkedin.com/in/wishnumurti/
 
 <!--
 **salt0330/salt0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
