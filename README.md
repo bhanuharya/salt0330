@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Ramadhana Bhanuharya Wishnumurti and you can call Wishnu, right now I'm studying CS/Informatics at Institut Teknologi Bandung. I have a deep interest in frontend development, thus I am learning and working to create awesome projects that you can see in my repo!
 
-I have experience as QA and product intern and currently searching for a winter internship opportunity.
+I’m looking for a winter internship opportunity and feel free to review my experience in my LinkedIn profile.
 ### My Skills 🔭
 
 <p>
