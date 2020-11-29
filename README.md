@@ -27,7 +27,7 @@ My name is Ramadhana Bhanuharya Wishnumurti, you can call Wishnu. Right now I'm 
 </p>
 
 
-### Gihub Stats
+### Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=salt0330&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
 ### Top Languages
@@ -36,6 +36,7 @@ My name is Ramadhana Bhanuharya Wishnumurti, you can call Wishnu. Right now I'm 
 ---
 
 ### 📫 Reach me at my LinkedIn: https://www.linkedin.com/in/wishnumurti/
+
 
 <!--
 **salt0330/salt0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
