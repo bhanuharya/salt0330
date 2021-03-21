@@ -1,6 +1,7 @@
 ### Hi there 👋
-My name is Ramadhana Bhanuharya Wishnumurti, you can call me Wishnu. Right now I'm studying CS/Informatics at Institut Teknologi Bandung. I have a deep interest in frontend and web development, thus I am learning and working to create awesome projects that you can see in my repo!
+My name is Ramadhana Bhanuharya Wishnumurti, you can call me Wishnu. Right now I'm studying CS/Informatics at Institut Teknologi Bandung. I aspire to be a great software engineer that can bring impact by giving technological innovation.
 
+- 🌱 I’m currently learning devops, go, microservices
 
 ### My Skills 🔭
 
