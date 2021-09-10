@@ -5,7 +5,7 @@ My name is Ramadhana Bhanuharya Wishnumurti, you can call me Wishnu. Right now I
 
 ### My Skills 🔭
 
-Favorite Stack: React, Next.js, Flask
+Favorite Stack: React(Next.js), Flask
 
 ### Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=salt0330&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
