@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ramadhana Bhanuharya Wishnumurti, you can call me Wishnu. Right now I'm studying CS/Informatics at Institut Teknologi Bandung. I aspire to be a great software engineer that can bring impact by giving technological innovation.
+My name is Wishnu. Right now I'm studying CS/Informatics at Institut Teknologi Bandung.
 
 ### Github Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=salt0330&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
